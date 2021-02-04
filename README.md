@@ -6,5 +6,5 @@ this is a list of wath i read
 | ------ | ----- |
 | 1      |     [Text Editor](text-editor.md)  |
 | 2      |     [Markdown](markdown.md)  |
-| 3 | [reflection and discussion](Reflection-and-Discussion.md)|
-
+| 3      | [reflection and discussion](Reflection-and-Discussion.md)|
+|4|      |Seeing Your Remote|[Seeing Your Remote](Seeing-Your-Remote.md_)|
