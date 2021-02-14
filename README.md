@@ -5,7 +5,7 @@
 | *Topic*      | *Link* |
 | ------ | ----- |
 | **1** | [Introductory HTML and JavaScript](Introductory HTML and JavaScript.md) |
-| **2** | [Reading 2](2.md) |
+| **2** | [Reading 2](Basics of HTML, CSS & JS2.md) |
 | **3** | [Reading 3](3.md) |
 | **4** | [Reading 4](4.md) |
 | **5** | [Reading 5](5.md) |
