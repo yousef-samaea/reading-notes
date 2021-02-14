@@ -188,7 +188,5 @@ In JavaScript we have the following conditional statements:
 *Use the else if statement to specify a new condition if the first condition is false.*
 
 
-**the end**
-
 
 
