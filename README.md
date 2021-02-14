@@ -4,7 +4,7 @@
 
 | *Topic*      | *Link* |
 | ------ | ----- |
-| **Introductory HTML and JavaScript** | [Reading 1](1.md) |
+| **1** | [Introductory HTML and JavaScript](Introductory HTML and JavaScript.md) |
 | **2** | [Reading 2](2.md) |
 | **3** | [Reading 3](3.md) |
 | **4** | [Reading 4](4.md) |
