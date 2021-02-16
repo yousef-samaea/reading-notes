@@ -59,7 +59,7 @@ The <em> element indicates emphasis that subtly changes the meaning of a sentenc
 
 7. **Quotations**
 
-<blockquote>:
+.<blockquote>:
 
 The <blockquote> element is used for longer quotes that take
 up an entire paragraph. Note how the <p> element is still used inside the <blockquote>
