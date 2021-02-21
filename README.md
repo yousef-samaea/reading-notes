@@ -10,7 +10,7 @@
 | **4** | [red_4](Read_4.md) |
 | **5** | [red_5](red_5.md) |
 | **6** | [red-6](red-6.md) |
-| **7** | [red_7](red_7.md) |
+| **7** | [red-7](red-7.md) |
 | **8** | [Reading 8](8.md) |
 | **9** | [Reading 9](9.md) |
 | **10** | [Reading 10](10.md) |
