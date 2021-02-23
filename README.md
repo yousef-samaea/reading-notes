@@ -12,7 +12,7 @@
 | **6** | [red-6](red-6.md) |
 | **7** | [red-7](red-7.md) |
 | **8** | [red-8](red-8.md) |
-| **9** | [Reading 9](9.md) |
+| **9** | [red-9](red-9.md) |
 | **10** | [Reading 10](10.md) |
 | **11** | [Reading 11](11.md) |
 | **12** | [Reading 12](12.md) |
