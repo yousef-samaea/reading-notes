@@ -8,7 +8,7 @@ at this section, you canfind all my 301 reading notes
 
 **Read#**  |  **Link**
 -----------|-----------
-Read 1 | [Link 1](https://yousef-samaea.github.io/reading-notes/code301/class01)
+Read 1 | [text-editor](text-editor.md)
 Read 2 | [Link 2](https://yousef-samaea.github.io/reading-notes/code301/class02)
 Read 3 | [Link 3](https://yousef-samaea.github.io/reading-notes/code301/class03)
 Read 4 | [Link 4](https://yousef-samaea.github.io/reading-notes/code301/class04)
