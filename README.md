@@ -9,7 +9,7 @@ at this section, you canfind all my 301 reading notes
 **Read#**  |  **Link** |
 -----------|-----------
 Read 1 | [text-editor](text-editor.md) |
-Read 2 | [Link 2](https://yousef-samaea.github.io/reading-notes/code301/class02) |
+Read 2 | [jQuery](jQuery.md) |
 Read 3 | [Link 3](https://yousef-samaea.github.io/reading-notes/code301/class03) |
 Read 4 | [Link 4](https://yousef-samaea.github.io/reading-notes/code301/class04) |
 Read 5 | [Link 5](https://yousef-samaea.github.io/reading-notes/code301/class05) |
