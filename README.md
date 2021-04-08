@@ -17,7 +17,7 @@ Read 6 | [Nodejs](Nodejs.md) |
 Read 7 | [REST](REST.md) |
 Read 8 | [SQL](SQL.md) |
 Read 9 | [Functional-Programming](Functional-Programming.md) |
-Read 10 | [Link 10](https://yousef-samaea.github.io/reading-notes/code301/class10) |
+Read 10 | [THE CALL STACK](THE CALL STACK.md) |
 Read 11 | [Link 11](https://yousef-samaea.github.io/reading-notes/code301/class11) |
 Read 12 | [Link 12](https://yousef-samaea.github.io/reading-notes/code301/class12) |
 Read 13 | [Link 13](https://yousef-samaea.github.io/reading-notes/code301/class13) |
