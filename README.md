@@ -20,7 +20,7 @@ Read 9 | [Functional-Programming](Functional-Programming.md) |
 Read 10 | [THE CALL STACK](THE CALL STACK.md) |
 Read 11 | [EJS](EJS.md) |
 Read 12 | [EJS_PARTIALS](EJS_PARTIALS.md) |
-Read 13 | [Link 13](https://yousef-samaea.github.io/reading-notes/code301/class13) |
+Read 13 | [Update-Delete](Update-Delete.md) |
 Read 14 | [Link 14](https://yousef-samaea.github.io/reading-notes/code301/class14a) |
 Read 15 | [Link 15](https://yousef-samaea.github.io/reading-notes/code301/class15) |
 
