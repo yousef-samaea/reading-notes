@@ -22,7 +22,7 @@ Read 11 | [EJS](EJS.md) |
 Read 12 | [EJS_PARTIALS](EJS_PARTIALS.md) |
 Read 13 | [Update-Delete](Update-Delete.md) |
 Read 14 | [Database_Normalization](Database_Normalization.md) |
-Read 15 | [Link 15](https://yousef-samaea.github.io/reading-notes/code301/class15) |
+Read 15 | [Diversity](Diversity.md) |
 
 
 
