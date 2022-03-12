@@ -25,6 +25,9 @@ Read 14 | [Database_Normalization](Database_Normalization.md) |
 Read 15 | [Diversity](Diversity.md) |
 
 ## Code 401 - Advanced Software Development
+at this section, you canfind all my 301 reading notes
+
+## Table of daily *reading assignments*
 
 **Read#**  |  **Link** |
 -----------|-----------
