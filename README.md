@@ -26,15 +26,13 @@ Read 15 | [Diversity](Diversity.md) |
 
 ## prework reading
 
-at this section, reading notes for prepwork
-
 **Read#**  |  **Link** |
 -----------|-----------
-
-Read 2 | [Practice in the Terminal](Practice_in_the_Terminal.md) |
 Read 1 | [Introduction to SQL](Introduction_to_SQL.md) |
+Read 2 | [Practice in the Terminal](Practice_in_the_Terminal.md) |
+
 ## Code 401 - Advanced Software Development
 
 **Read#**  |  **Link** |
 -----------|-----------
-Read 1 | [Exception Handling](Exception Handling.md) |
+Read 1 | [Exception Handling](Exception_Handling.md) |
