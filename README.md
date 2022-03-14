@@ -24,8 +24,15 @@ Read 13 | [Update-Delete](Update-Delete.md) |
 Read 14 | [Database_Normalization](Database_Normalization.md) |
 Read 15 | [Diversity](Diversity.md) |
 
+## prework reading
+
+**Read#**  |  **Link** |
+-----------|-----------
+
 ## Code 401 - Advanced Software Development
-at this section, you canfind all my 301 reading notes
+at this section, reading notes for prepwork
+
+Read 1 | [Introduction to SQL](Introduction_to_SQL.md) |
 
 ## Table of daily *reading assignments*
 
