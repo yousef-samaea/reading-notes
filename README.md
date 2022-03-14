@@ -31,12 +31,9 @@ at this section, reading notes for prepwork
 **Read#**  |  **Link** |
 -----------|-----------
 
-## Code 401 - Advanced Software Development
-
-Read 1 | [Introduction to SQL](Introduction_to_SQL.md) |
 Read 2 | [Practice in the Terminal](Practice_in_the_Terminal.md) |
-
-## Table of daily *reading assignments*
+Read 1 | [Introduction to SQL](Introduction_to_SQL.md) |
+## Code 401 - Advanced Software Development
 
 **Read#**  |  **Link** |
 -----------|-----------
