@@ -36,3 +36,4 @@ Read 2 | [Practice in the Terminal](Practice_in_the_Terminal.md) |
 **Read#**  |  **Link** |
 -----------|-----------
 Read 1 | [Exception Handling](Exception_Handling.md) |
+Read 2 | [Unit Testing](Unit_Testing.md) |
