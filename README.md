@@ -37,3 +37,5 @@ Read 2 | [Practice in the Terminal](Practice_in_the_Terminal.md) |
 -----------|-----------
 Read 1 | [Exception Handling](Exception_Handling.md) |
 Read 2 | [Unit Testing](Unit_Testing.md) |
+Read 3 | [File Manipulation](File_Manipulation.md) |
+Read 4 | [Classes & Memory Management](Classes&Memory_Management.md) |
