@@ -39,3 +39,4 @@ Read 1 | [Exception Handling](Exception_Handling.md) |
 Read 2 | [Unit Testing](Unit_Testing.md) |
 Read 3 | [File Manipulation](File_Manipulation.md) |
 Read 4 | [Classes & Memory Management](Classes&Memory_Management.md) |
+Read 5 | [Linked Lists](Linked_Lists.md) |
