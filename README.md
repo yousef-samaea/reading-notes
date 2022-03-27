@@ -40,3 +40,4 @@ Read 2 | [Unit Testing](Unit_Testing.md) |
 Read 3 | [File Manipulation](File_Manipulation.md) |
 Read 4 | [Classes & Memory Management](Classes&Memory_Management.md) |
 Read 5 | [Linked Lists](Linked_Lists.md) |
+Read 6 | [Object Oriented Principles](ObjectOrientedPrinciples.md) |
