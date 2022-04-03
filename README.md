@@ -42,3 +42,4 @@ Read 4 | [Classes & Memory Management](Classes&Memory_Management.md) |
 Read 5 | [Linked Lists](Linked_Lists.md) |
 Read 6 | [Object Oriented Principles](ObjectOrientedPrinciples.md) |
 Read 7 | [Interfaces](Interfaces.md) |
+Read 8 | [Collections & Enums](Collections&Enums.md) |
