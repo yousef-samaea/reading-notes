@@ -43,3 +43,6 @@ Read 5 | [Linked Lists](Linked_Lists.md) |
 Read 6 | [Object Oriented Principles](ObjectOrientedPrinciples.md) |
 Read 7 | [Interfaces](Interfaces.md) |
 Read 8 | [Collections & Enums](Collections&Enums.md) |
+Read 9 | [LINQ and Delegates](LINQ-and-Delegates.md) |
+
+
