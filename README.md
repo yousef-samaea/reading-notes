@@ -46,4 +46,5 @@ Read 8 | [Collections & Enums](Collections&Enums.md) |
 Read 9 | [LINQ and Delegates](LINQ-and-Delegates.md) |
 Read 10 | [Stacks and Queues](Stacks-and-Queues.md)  |
 Read 11 | [Introduction to Databasess](Introduction-to-Databases.md) |
+Read 12 | [Framework and APIs](Framework-and-APIs.md) |
 
