@@ -47,4 +47,5 @@ Read 9 | [LINQ and Delegates](LINQ-and-Delegates.md) |
 Read 10 | [Stacks and Queues](Stacks-and-Queues.md)  |
 Read 11 | [Introduction to Databasess](Introduction-to-Databases.md) |
 Read 12 | [Framework and APIs](Framework-and-APIs.md) |
+Read 13 | [Dependency Injection & Repository Pattern](Dependency-InjectionandRepository-Pattern.md) |
 
