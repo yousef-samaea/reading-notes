@@ -50,3 +50,6 @@ Read 12 | [Framework and APIs](Framework-and-APIs.md) |
 Read 13 | [Dependency Injection & Repository Pattern](Dependency-InjectionandRepository-Pattern.md) |
 Read tree | [tree](tree.md) |
 Read 14 | [Navigation](Navigation.md) |
+Read 16 | [Data Transfer Objects](Data-Transfer-Objects.md) |
+
+Data Transfer Objects
