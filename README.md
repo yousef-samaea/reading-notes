@@ -51,5 +51,4 @@ Read 13 | [Dependency Injection & Repository Pattern](Dependency-InjectionandRep
 Read tree | [tree](tree.md) |
 Read 14 | [Navigation](Navigation.md) |
 Read 16 | [Data Transfer Objects](Data-Transfer-Objects.md) |
-
-Data Transfer Objects
+Read 17 | [Testing and Swagger and Deployments](Testing-and-Swagger-and=Deployments.md) |
