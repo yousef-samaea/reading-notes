@@ -54,3 +54,4 @@ Read 16 | [Data Transfer Objects](Data-Transfer-Objects.md) |
 Read 17 | [Testing and Swagger and Deployments](Testing-and-Swagger-and=Deployments.md) |
 Read 18 | [Identity](Identity.md) |
 Read 19 | [Roles, Claims and JWT Tokens](Roles-Claims&JWT-Tokens.md) |
+Read 19 | [Intro to MVC](/MVC.md) |
