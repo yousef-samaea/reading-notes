@@ -55,3 +55,4 @@ Read 17 | [Testing and Swagger and Deployments](Testing-and-Swagger-and=Deployme
 Read 18 | [Identity](Identity.md) |
 Read 19 | [Roles, Claims and JWT Tokens](Roles-Claims&JWT-Tokens.md) |
 Read 26 | [Intro to MVC](/MVC.md) |
+Read 27 | [MVC Forms](/MVCForms.md) |
