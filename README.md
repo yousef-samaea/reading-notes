@@ -57,4 +57,5 @@ Read 19 | [Roles, Claims and JWT Tokens](Roles-Claims&JWT-Tokens.md) |
 Read 26 | [Intro to MVC](/MVC.md) |
 Read 27 | [MVC Forms](/MVCForms.md) |
 Read 28 | [HTTP Cookies](/HTTPCookies.md) |
-Read 29 | [Hash Tables](/HashTables.md) |
+Read 28.2  | [Hash Tables](/HashTables.md) |
+Read 29 | [Azure Blob Storage](./AzureBlobStorage.md) |
