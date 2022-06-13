@@ -60,3 +60,4 @@ Read 28 | [HTTP Cookies](/HTTPCookies.md) |
 Read 28.2  | [Hash Tables](/HashTables.md) |
 Read 29 | [Azure Blob Storage](./AzureBlobStorage.md) |
 Read 31 | [Razor Pages](./RazorPages.md) |
+Read 32 | [View Components](./View-Components.md) |
