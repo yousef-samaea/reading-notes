@@ -61,4 +61,6 @@ Read 28.2  | [Hash Tables](/HashTables.md) |
 Read 29 | [Azure Blob Storage](./AzureBlobStorage.md) |
 Read 31 | [Razor Pages](./RazorPages.md) |
 Read 32 | [View Components](./View-Components.md) |
+Read 33 | [Sendgrid](./Sendgrid.md) |
+Read 33.2 | [Graphs](./Graphs.md) |
 Read 34 | [Payment Processing](./PaymentProcessing.md) |

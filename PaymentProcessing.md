@@ -50,7 +50,7 @@ After that, you have to create a view for success. I assumed that you will creat
 
 So now if you run the application and will click Confirm Payment. you will see your success view.
 
-### 
+
 
 
 
