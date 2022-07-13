@@ -65,3 +65,5 @@ Read 33 | [Sendgrid](./Sendgrid.md) |
 Read 33.2 | [Graphs](./Graphs.md) |
 Read 34 | [Payment Processing](./PaymentProcessing.md) |
 Read 37 | [JAM Stack](./JAM-Stack.md) |
+Read 38 | [Factory Method](./Factory-Method.md) |
+Read 41 | [Unity](./Unity.md) |
