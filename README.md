@@ -68,4 +68,4 @@ Read 37 | [JAM Stack](./JAM-Stack.md) |
 Read 38 | [Factory Method](./Factory-Method.md) |
 Read 41 | [Unity](./Unity.md) |
 Read 42 | [Unity - Game Play](./Unity-GamePlay.md) |
-Read 42.1 | [Unity](./Ethics.md) |
+Read 42.1 | [Ethics](./Ethics.md) |
